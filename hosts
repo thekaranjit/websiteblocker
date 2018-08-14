@@ -1,0 +1,30 @@
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one 
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual 
+# lines or following the machine name denoted by a '#' symbol.             
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#       127.0.0.1       localhost  
+#       ::1             localhost
+127.0.0.1 anchorfree.net
+127.0.0.1 rss2search.com
+127.0.0.1 techbrowsing.com
+127.0.0.1 box.anchorfree.net
+127.0.0.1 www.mefeedia.com
+127.0.0.3 www.anchorfree.net
+127.0.0.2 www.mefeedia.com
+127.0.0.1 anchorfree.us
+127.0.0.1 a433.com
+127.0.0.3 anchorfree.net
+127.0.0.1 rpt.anchorfree.net
+127.0.0.1 delivery.anchorfree.us/land.php
+127.0.0.1 hsselite.com
+127.0.0.1 www.hsselite.com
